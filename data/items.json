@@ -1,0 +1,116 @@
+[
+    {
+        "id": "fullstack-developer",
+        "name": "Fullstack Developer",
+        "category": "Engineering",
+        "unit": "Day",
+        "rate": 280700,
+        "active": true
+    },
+    {
+        "id": "backend-developer",
+        "name": "Backend Developer",
+        "category": "Engineering",
+        "unit": "Day",
+        "rate": 280000,
+        "active": true
+    },
+    {
+        "id": "frontend-developer",
+        "name": "Frontend Developer",
+        "category": "Engineering",
+        "unit": "Day",
+        "rate": 260000,
+        "active": true
+    },
+    {
+        "id": "mobile-developer",
+        "name": "Mobile Developer",
+        "category": "Engineering",
+        "unit": "Day",
+        "rate": 300000,
+        "active": true
+    },
+    {
+        "id": "ui-ux-designer",
+        "name": "UI/UX Designer",
+        "category": "Design",
+        "unit": "Day",
+        "rate": 275000,
+        "active": true
+    },
+    {
+        "id": "qa-engineer",
+        "name": "QA Engineer",
+        "category": "Quality Assurance",
+        "unit": "Day",
+        "rate": 220000,
+        "active": true
+    },
+    {
+        "id": "devops-engineer",
+        "name": "DevOps Engineer",
+        "category": "Engineering",
+        "unit": "Day",
+        "rate": 320000,
+        "active": true
+    },
+    {
+        "id": "system-analyst",
+        "name": "System Analyst",
+        "category": "Analysis",
+        "unit": "Day",
+        "rate": 300000,
+        "active": true
+    },
+    {
+        "id": "business-analyst",
+        "name": "Business Analyst",
+        "category": "Analysis",
+        "unit": "Day",
+        "rate": 300000,
+        "active": true
+    },
+    {
+        "id": "project-manager",
+        "name": "Project Manager",
+        "category": "Management",
+        "unit": "Day",
+        "rate": 350000,
+        "active": true
+    },
+    {
+        "id": "technical-writer",
+        "name": "Technical Writer",
+        "category": "Documentation",
+        "unit": "Day",
+        "rate": 180000,
+        "active": true
+    },
+    {
+        "id": "support-engineer",
+        "name": "Support Engineer",
+        "category": "Operations",
+        "unit": "Day",
+        "rate": 200000,
+        "active": true
+    },
+    {
+        "id": "openai-api-credit",
+        "name": "OpenAI API Credit",
+        "category": "License",
+        "unit": "Qty",
+        "rate": 349000,
+        "active": true,
+        "duration_required": false
+    },
+    {
+        "id": "software-license",
+        "name": "Software License",
+        "category": "License",
+        "unit": "License",
+        "rate": 500000,
+        "active": true,
+        "duration_required": false
+    }
+]
